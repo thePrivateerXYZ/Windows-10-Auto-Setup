@@ -2,18 +2,15 @@
 A collection of scripts and files that help automate the setup of a new Windows 10 instance
 
 ## Tools Used
-- DISM
+- WSIM
 - Chocolatey
 - Windows 10 Sophia Script
 
 ## Contents
 - autounattend.xml
-- newuser.xml
-- defaults.xml
-- appearances.ps1
 - appearances.psm1
-- chocolatey.ps1
 - chocolatey.psm1
+- run.ps1
 
 ## Tested Windows 10 Versions
 |Version|    Marketing name   | Build | Arch |      Editions     | Script version |
