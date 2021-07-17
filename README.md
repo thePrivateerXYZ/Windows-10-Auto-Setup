@@ -3,7 +3,6 @@ A collection of scripts and files that help automate the setup of a new Windows 
 
 ## Tools Used
 - WSIM
-- Chocolatey
 - Windows 10 Sophia Script
 
 ## Contents
