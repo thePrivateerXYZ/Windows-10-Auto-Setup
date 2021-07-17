@@ -1,8 +1,9 @@
 # Windows 10 Auto Setup
-A collection of scripts and files that help automate the setup of a new Windows 10 instance
+A collection of scripts and files that help automate the setup of a new Windows 10 instance via sysprep.
 
 ## Tools Used
 - WSIM
+- Sysprep
 - Windows 10 Sophia Script
 
 ## Contents
@@ -14,3 +15,7 @@ A collection of scripts and files that help automate the setup of a new Windows 
 | 21H1  | May 2021 Update     | 19043 |  x64 |Home/Pro/Enterprise||
 | 20H2  | October 2020 Update | 19042 |  x64 |Home/Pro/Enterprise||
 | 2004  | May 2020 Update     | 19041 |  x64 |Home/Pro/Enterprise||
+
+## How To's
+### How to generate an autounattend.xml file
+### How to use sysprep
