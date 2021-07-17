@@ -8,9 +8,6 @@ A collection of scripts and files that help automate the setup of a new Windows 
 
 ## Contents
 - autounattend.xml
-- appearances.psm1
-- chocolatey.psm1
-- run.ps1
 
 ## Tested Windows 10 Versions
 |Version|    Marketing name   | Build | Arch |      Editions     | Script version |
