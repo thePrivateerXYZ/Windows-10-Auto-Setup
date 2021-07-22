@@ -10,11 +10,11 @@ A collection of scripts and files that help automate the setup of a new Windows 
 - autounattend.xml
 
 ## Tested Windows 10 Versions
-|Version|    Marketing name   | Build | Arch |      Editions     | Script version |
-|:-----:|:-------------------:|:-----:|:----:|:-----------------:|:--------------:|
-| 21H1  | May 2021 Update     | 19043 |  x64 |Home/Pro/Enterprise||
-| 20H2  | October 2020 Update | 19042 |  x64 |Home/Pro/Enterprise||
-| 2004  | May 2020 Update     | 19041 |  x64 |Home/Pro/Enterprise||
+|Version|    Marketing name   | Build | Script version |
+|:-----:|:-------------------:|:-----:|:--------------:|
+| 21H1  | May 2021 Update     | 19043 ||
+| 20H2  | October 2020 Update | 19042 ||
+| 2004  | May 2020 Update     | 19041 ||
 
 ## How To's
 ### How to generate an autounattend.xml file
